@@ -29,10 +29,12 @@ img {
 .header-container {
     padding-bottom: 168px;
     display:flex;
-    width: auto; /* auto задай в конце вместо 1440 */
+    width: 1440px; /* auto задай в конце вместо 1440 */
     height: 900px;
     padding-top: 104px;
     padding-left: 133px;
+    margin-left:auto;
+    margin-right: auto;
     /* padding-right: 133px; */
     
     background-color: #F8F8F8;
@@ -108,7 +110,7 @@ img {
     height: 720px;
     margin-top: -104;
     margin-right: 17%;
-    margin-left: 70%;
+    margin-left: 50px;
 }
 
 .popular-title {
