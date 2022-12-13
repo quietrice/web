@@ -108,7 +108,7 @@ img {
     display: block;
     width: 408px;
     height: 720px;
-    margin-top: -104;
+    /* margin-top: -104; */
     margin-right: 17%;
     margin-left: 50px;
 }
